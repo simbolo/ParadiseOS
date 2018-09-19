@@ -1,14 +1,14 @@
 # ParadiseOS
 
+Paradise OS would be a small disk image, that boots into the Paradise shell, a terminal where a user can use the Paradise actions to create and modify their world, and interact with that of other's.
+
 ## Basics
 - [Vessels](https://github.com/hundredrabbits/Paradise/blob/master/desktop/server/vessel.js) are files.
 - [Actions](https://github.com/hundredrabbits/Paradise/blob/master/desktop/server/vessel.js) are applications.
 - A user controls a vessel.
 - Only vessels can act.
 
-## Distribution
-
-- A tiny disk image that boots on Raspberry Pi with 2 vessels:
+## Base world
 
 ```
 the void
