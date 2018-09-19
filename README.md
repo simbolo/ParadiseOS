@@ -2,9 +2,10 @@
 
 ## Basics
 
-- The user has the same privileges as the embodied vessel.
-- The [vessel](https://github.com/hundredrabbits/Paradise/blob/master/desktop/server/vessel.js) is the only data type.
-- The Paradise [actions](https://github.com/hundredrabbits/Paradise/tree/master/desktop/server/actions) are the only applications.
+- A user controls a vessel.
+- A [vessel](https://github.com/hundredrabbits/Paradise/blob/master/desktop/server/vessel.js) is the data type.
+- An [action](https://github.com/hundredrabbits/Paradise/blob/master/desktop/server/vessel.js) is an application.
+- Only vessels can act.
 
 ## Distribution
 
