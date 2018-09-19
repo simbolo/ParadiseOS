@@ -1,6 +1,6 @@
 # ParadiseOS
 
-**Paradise OS** would be a small disk image, that boots into the Paradise shell, a terminal where a user can embody vessels, and use actions to create and modify their world, and interact with that of other's.
+**Paradise OS** would be a small disk image, that boots into the Paradise shell, a terminal where a user can **embody vessels**, and **use actions** to create and modify their world, and interact with that of other's.
 
 ## Basics
 - [Vessels](https://github.com/hundredrabbits/Paradise/blob/master/desktop/server/vessel.js) are files.
