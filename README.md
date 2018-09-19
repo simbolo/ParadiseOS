@@ -8,20 +8,21 @@
 - A user controls a vessel.
 - Only vessels can act.
 
+## Implementation
+
+- **Kernel**, in progress.
+- **Shell**
+- **Vessel**
+- **Action**
+- **Wildcard**
+- **Networking**
+
 ## Base world
 
 ```
 the void
   the ghost
 ```
-## Parts
-
-- Kernel
-- Shell
-- Vessel
-- Action
-- Wildcard
-- Networking
 
 ## Resources
 
