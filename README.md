@@ -21,5 +21,7 @@ the void
 You are a ghost in the void.
 ```
 
-## Network
+## Resources
 
+- [Operating Systems: Three Easy Pieces](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)
+- [OS Writing](https://wiki.osdev.org/Main_Page)
